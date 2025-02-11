@@ -47,11 +47,12 @@ footer{
 
 .author {
   text-align: right;
+  color: grey;
 }
 
 .reference-button {
   font-weight: bold;
-  color: rgb(51, 43, 45);
+  color: rgb(22, 2, 7);
   background-color: rgb(133, 88, 28);
   cursor: pointer;
 }
