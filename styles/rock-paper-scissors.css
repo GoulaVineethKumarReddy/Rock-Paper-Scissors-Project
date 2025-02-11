@@ -34,3 +34,24 @@ body {
   padding: 8px 15px;
   cursor: pointer;
 }
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(57, 194, 240);
+  color: white;
+  text-align: end;
+}
+
+.author {
+  text-align: right;
+}
+
+.reference-button {
+  font-weight: bold;
+  color: rgb(51, 43, 45);
+  background-color: rgb(133, 88, 28);
+  cursor: pointer;
+}
